@@ -1,2 +1,6 @@
-# Potenci-metros
+# Potenciometros
 Potenciómetros
+
+
+
+rica mamahuevo xd
