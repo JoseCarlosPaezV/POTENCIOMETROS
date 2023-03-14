@@ -26,6 +26,7 @@ Las partes de un potenciómetro son:
 
 Los diferentes tipos de potenciómetros se puede clasificar según cómo se modifica la resistencia y, por otra parte, según la función que hace variar el valor de la resistencia.
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 **Tipos de potenciómetros según el tipo de mando:**
 
 -   **Potenciómetro rotatorio:** tipo de potenciómetro en el cual el valor de la resistencia se controla girando el eje del potenciómetro. Los potenciómetros rotatorios son los más usados, ya que duran mucho y ocupan poco espacio.
@@ -48,3 +49,8 @@ El potenciómetro se utiliza principalmente en dispositivos electrónicos que ne
 -   Un ventilador que puede girar a diferentes velocidades generalmente emplea un potenciómetro para cambiar su velocidad.
     
 -   Un acelerador, como por ejemplo el pedal de un coche que sirve para acelerar, normalmente lleva un potenciómetro para saber la posición en la que se encuentra. De este modo, se puede transmitir la información al sistema de control y este aumenta o reduce la velocidad del vehículo.
+
+
+
+https://user-images.githubusercontent.com/71366917/225163913-fb85666d-0b8e-4eaa-b2be-88cf4d2ccc27.mp4
+
