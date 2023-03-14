@@ -26,7 +26,6 @@ Las partes de un potenciómetro son:
 
 Los diferentes tipos de potenciómetros se puede clasificar según cómo se modifica la resistencia y, por otra parte, según la función que hace variar el valor de la resistencia.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 **Tipos de potenciómetros según el tipo de mando:**
 
 -   **Potenciómetro rotatorio:** tipo de potenciómetro en el cual el valor de la resistencia se controla girando el eje del potenciómetro. Los potenciómetros rotatorios son los más usados, ya que duran mucho y ocupan poco espacio.
